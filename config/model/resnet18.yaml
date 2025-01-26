@@ -1,0 +1,6 @@
+name: "resnet18"
+pretrained: true
+num_classes: 1000
+parameters:
+  dropout: 0.1
+  final_layer: "linear" 
