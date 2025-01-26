@@ -4,9 +4,9 @@ defaults:
   - optimizer: adam
   - optional dataset: imagenet # Makes dataset config optional
   - training: default
-  - override hydra/job_logging: colorlog
-  - override hydra/hydra_logging: colorlog
-  - override hydra/launcher: submitit_slurm
+  - override hydra/job_logging: default
+  - override hydra/hydra_logging: default
+  - override hydra/launcher: basic
 
 # Global configurations
 seed: 42
