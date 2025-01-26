@@ -1,0 +1,10 @@
+name: "imagenet"
+params:
+  batch_size: 32
+  num_workers: 4
+  shuffle: true
+
+preprocessing:
+  mean: [0.485, 0.456, 0.406]
+  std: [0.229, 0.224, 0.225]
+  size: 224 
