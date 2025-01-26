@@ -1,0 +1,8 @@
+epochs: 100
+early_stopping:
+  patience: 10
+  min_delta: 0.001
+
+validation:
+  frequency: 1
+  metrics: ["accuracy", "loss"] 
