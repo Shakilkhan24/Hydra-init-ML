@@ -1,5 +1,5 @@
 # Learning Hydra for Machine Learning Projects  
-This repository represents my first experience with Hydra, a powerful configuration management tool, in the context of machine learning. The primary focus of this project is to explore and understand Hydra's directory structure and configuration capabilities.  
+This repository represents my first experience with Hydra, a powerful configuration management tool, in the context of machine learning.  
 
 ⚠️ **Note:** This is a learning-oriented project and not intended to be a fully developed or production-ready application.  
 
